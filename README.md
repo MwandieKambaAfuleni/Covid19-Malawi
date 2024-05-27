@@ -1,1 +1,1 @@
-This repository contains data and codes for the analysis in the manuscript "Epidemiological and phylogenetic analyses of public SARS-CoV-2 data from Malawi". 
+This repository contains data and codes for the analysis in the manuscript "Epidemiological and phylogenetic analyses of public SARS-CoV-2 data from Malawi". Case or death data was obtained from https://ourworldindata.org/coronavirus while the genomic data was accessed from https://gisaid.org/
